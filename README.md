@@ -1,4 +1,4 @@
-# 🚀 Complete Deployment Guide
+# 🚀 Complete Guide
 
 Comprehensive deployment instructions for Federated Learning Phishing Detection on AWS.
 
